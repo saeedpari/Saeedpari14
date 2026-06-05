@@ -1,4 +1,3 @@
-trojan://SHAMOJ3rnxb5LyMDn6CRXA@vip-srv-for-you.parsiclouds.ir:443?mode=auto&path=%2Fdownload&security=tls&alpn=h2%2Chttp%2F1.1&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%2210-50%22%2C%20%22noGRPCHeader%22%3A%20false%7D&insecure=0&host=x1-dpim9mztudx78ieloo1t.parsiclouds.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=x1-dpim9mztudx78ieloo1t.parsiclouds.ir#@v2reya88
 vless://c931f737-cafe-4e4f-998a-a65517941256@85.208.139.98:8444?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Hp6K5hsiPY4_zATgAtef9YTxNGpSkhAHTTo9MUO7fik&security=reality&sid=77e934f68f02ab4c&sni=cdnjs.com&type=tcp#@v2reya88
 trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=https%3A%2F%2Fchatgpt.com&sni=sadszdx.global.ssl.fastly.net.mitivpn.store&alpn=http%2F1.1&fp=chrome&allowInsecure=0#@v2reya88
 vless://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868?security=reality&sni=yahoo.com&allowInsecure=1&fp=chrome&pbk=joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10&sid=6d638e&type=tcp&packetEncoding=xudp&encryption=none#@v2reya88
@@ -6,6 +5,7 @@ vless://691fb5cb-76ec-41a8-a4f8-dac38b7568ad@blubank.ir:80?path=%2F&security=non
 vless://bbdf7603-ee64-40bd-b632-e8e549daf616@185.143.233.122:443?type=ws&encryption=none&path=%2F&host=cyrus2.frtshop.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=cyrus2.frtshop.ir#@v2reya88
 vless://45b59904-65a8-446d-5039-5c60eb1ca6b0@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn2.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn2.darafiq.ir#5.00GB%F0%9F%93%8A
 vless://f55b90ab-b66e-410c-4387-adcabec915c9@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn2.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn2.darafiq.ir#%D8%A8%D9%87%20%D8%B9%D8%B4%D9%82%20%D8%A8%DA%86%D9%87%20%D9%87%D8%A7%DB%8C%20%DA%86%D9%86%D9%84%D9%85
+vless://872f7250-0736-437b-ad71-35f85841d879@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn1.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn1.darafiq.ir#baby...%20doll%F0%9F%92%94
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%40IranUnlocked%20%E2%99%8A
 vless://f5a25ee5-ff24-41b0-80e8-ccafdc866614@193.233.23.121:40611?security=none&encryption=none&headerType=none&type=tcp#%40IranUnlocked%20%E2%99%8E
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%40IranUnlocked%20%E2%99%8B
