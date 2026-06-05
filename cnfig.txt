@@ -1,5 +1,3 @@
-trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=https%3A%2F%2Fchatgpt.com&sni=sadszdx.global.ssl.fastly.net.mitivpn.store&alpn=http%2F1.1&fp=chrome&allowInsecure=0#@v2reya88
-vless://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868?security=reality&sni=yahoo.com&allowInsecure=1&fp=chrome&pbk=joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10&sid=6d638e&type=tcp&packetEncoding=xudp&encryption=none#@v2reya88
 vless://691fb5cb-76ec-41a8-a4f8-dac38b7568ad@blubank.ir:80?path=%2F&security=none&encryption=none&host=meli2.masterdadeh.ir&type=ws#@v2reya88
 vless://bbdf7603-ee64-40bd-b632-e8e549daf616@185.143.233.122:443?type=ws&encryption=none&path=%2F&host=cyrus2.frtshop.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=cyrus2.frtshop.ir#@v2reya88
 vless://45b59904-65a8-446d-5039-5c60eb1ca6b0@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn2.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn2.darafiq.ir#5.00GB%F0%9F%93%8A
