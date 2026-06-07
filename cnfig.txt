@@ -28,9 +28,6 @@ vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality
 vless://7d2c6756-8397-426e-bed2-100d9f5da95d@174.138.75.30:24211?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#United%2BStates
 trojan://humanity@104.16.174.36:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#none
 vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?security=reality&encryption=none&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=1aab45#Australia
-vless://0cdda660-78fa-4313-922b-a9703fd6a800@rntckjfmbhgdqzvxwply.sd.noafra.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@meliproxyy
-vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@api-maps.xwhiteness.top:443?security=reality&encryption=none&pbk=ek7vNW3A7JfrSIf5DI1amef5Zh9v-H8E7GhOXDWM6hQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.xwhiteness.top#@meliproxyy
-trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#@meliproxyy
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#@meliproxyy
 ss://YWVzLTI1Ni1nY206N051QjBZNW0zYU56a0tNS2xGb013a2lhanN1NkYzNmM5b2s0VktFWm5CND0@de5.taskflowhub.org:2083#@meliproxyy
 vless://024ee20d-57dc-46f2-84bf-e1eab037d37f@104.21.19.196:8443?mode=auto&path=%2Ftake&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=s3.alivpn.qzz.io&fp=chrome&type=xhttp&allowInsecure=0&sni=s3.alivpn.qzz.io#@meliproxyy
@@ -38,3 +35,6 @@ vless://29d4f5d5-06b3-4f87-9a94-b793c90b6361@cdn.esansid.xyz:10592?path=%2F&secu
 vless://0a2f8145-290f-4848-a011-3d1e5fe62a14@45.130.125.192:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vh.mojaz-persian-music.ir#@meliproxyy
 vless://38608efb-885a-4bb3-a344-9724ae4402c0@89.117.1.112:4433?security=reality&encryption=none&pbk=BpqeBkdp8XDGn3L-f6PU-JzPT3Dqp_zS1XVaqnJj8nY&host=www.microsoft.com&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=e504fceed114147b#@meliproxyy
 vless://5c088015-12b9-4eec-86be-f7a9cd0a6c29@188.114.97.6:2087?mode=auto&path=%2Frandom&security=tls&encryption=none&insecure=0&host=main1.atomtank.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=main1.atomtank.dpdns.org#@meliproxyy
+vless://f90099ab-bbb9-4d68-824b-edca0ea32cf1@82.29.128.252:443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&sni=www.amd.com&fp=edge&pbk=FoCmMBurpqNaVQWlRvyuS1um0ftKxXMnnKNbnHpe-G8#@meliproxyy
+trojan://SoftNetConnect@178.104.213.121:8443?mode=auto&path=%2F&security=reality&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=OzvPvPpRJue41xrg3i2ye6I_NUWxpiRmJwysxM_OhBE&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=a9633ad7276e#@meliproxyy
+trojan://SoftNetConnect@178.104.213.121:443?security=reality&pbk=bVGtj0cRMfC-VapbrAa97IjYqjMoxODMOqsN0eGBDmI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=e0c7dbaa7dc2#@meliproxyy
