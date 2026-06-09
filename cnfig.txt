@@ -1,4 +1,3 @@
-vless://965fef48-24c7-4727-b51e-6d3b2b8873c8@45.130.125.158:443?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=mahsa97.manhamunamkeyeruz.ir&fp=ios&type=xhttp&allowInsecure=0&sni=mahsa97.manhamunamkeyeruz.ir#@v2reya88
 trojan://telegram-id-directvpn@15.236.101.176:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@v2reya88
 vless://e42eb18a-6620-49b2-a578-820da4adcee8@198.41.216.128:2096?encryption=none&security=tls&sni=cD.rXtEaMoNbToP.qZz.iO&alpn=http%2F1.1&fp=chrome&type=ws&host=cd.rxteamonbtop.qzz.io&path=%2FeyJqdW5rIjoia09KQkRyT1VnUDVHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560#@v2reya88
 trojan://humanity@141.193.213.21:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#@v2reya88
@@ -8,6 +7,7 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.myfymain.com:8880?mode=gun&se
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGI2ZTkzZTU0MjI1ODAz@51.75.168.50:26179#@v2reya88
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHeVo1WG8waHQ0MXZZbVczSDQ=@149.28.255.6:816#@v2reya88
 vmess://eyJzbmkiOiIiLCJwYXRoIjoiIiwiZnAiOiJjaHJvbWUiLCJwb3J0IjoiMjA1MyIsInYiOiIyIiwicHMiOiJnZXJtYW558J+HqfCfh6oiLCJhZGQiOiJkZS5jb25uZnVsbC5vcmciLCJob3N0IjoiIiwiaWQiOiJkMDNhOGRmNC1iNTdkLTQ0ZWMtODU0NC0zNzJmNjY4M2U1YTYiLCJzZXJ2aWNlTmFtZSI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsImFscG4iOiJoMixoMyxodHRwXC8xLjEiLCJhaWQiOiIwIiwibW9kZSI6IiIsImRldmljZUlEIjoiIiwiZXh0cmEiOiIiLCJhdXRob3JpdHkiOiIiLCJmcmFnbWVudCI6IiIsInRscyI6InRscyIsInNlZWQiOiIiLCJuZXQiOiJ0Y3AiLCJoZWFkZXJUeXBlIjoibm9uZSJ9
+vmess://eyJzbmkiOiIiLCJwYXRoIjoiIiwiZnAiOiJjaHJvbWUiLCJwb3J0IjoiMjA1MyIsInYiOiIyIiwicHMiOiJnZXJtYW558J+HqfCfh6oiLCJhZGQiOiJkZS5jb25uZnVsbC5vcmciLCJob3N0IjoiIiwiaWQiOiJkMDNhOGRmNC1iNTdkLTQ0ZWMtODU0NC0zNzJmNjY4M2U1YTYiLCJzZXJ2aWNlTmFtZSI6Im5vbmUiLCJ0eXBlIjo…
 vless://f5a25ee5-ff24-41b0-80e8-ccafdc866614@193.233.23.121:40611?security=none&encryption=none&headerType=none&type=tcp#%40IranUnlocked%20%E2%99%8E
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%40IranUnlocked%20%E2%99%8B
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%40IranUnlocked%20%E2%99%8C
@@ -32,13 +32,13 @@ vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality
 vless://7d2c6756-8397-426e-bed2-100d9f5da95d@174.138.75.30:24211?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#United%2BStates
 trojan://humanity@104.16.174.36:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#none
 vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?security=reality&encryption=none&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=1aab45#Australia
-vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
-vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#@meliproxyy
-vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&alpn=h2&encryption=none&insecure=0&host=vi.mojaz-persian-music.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=vi.mojaz-persian-music.ir#@meliproxyy
-trojan://Masir_Sefid@37.156.45.168:2083?security=reality&pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&headerType=none&fp=chrome&spx=%2FzhH6xrLTx7oS2Yl&type=tcp&sni=store.steampowered.com&sid=d2f7#@meliproxyy
-vless://f22b1e81-54ff-4ce5-ad08-53fd874e55b5@104.16.163.32:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=itopp.mgwarrior.ir&fp=chrome&type=ws&allowInsecure=0&sni=itopp.mgwarrior.ir#@meliproxyy
-vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.193:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssj.new-persian-song.ir#@meliproxyy
-trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&host=www.calmloud.com&allowinsecure=0&type=ws&sni=www.calmloud.com#@meliproxyy
-trojan://humanity@212.183.88.136:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&allowinsecure=0&type=ws&sni=www.calmlunch.com#@meliproxyy
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.69:8443?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=cdn7-39.vk-cdnvideo.com#@meliproxyy
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#@meliproxyy
+vless://6585a62b-4d8b-48cc-bdad-e2542504d748@45.131.4.173:8443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=Itsrezu2.dr-ping.com&fp=chrome&type=xhttp&allowInsecure=0&sni=Itsrezu2.dr-ping.com#@meliproxyy
+vless://d4eb1900-6515-494e-85c5-306bb9594f56@45.130.125.194:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vo.new-persian-song.ir#@meliproxyy
+vless://2d11f9a7-5cb9-4a76-acbe-0064305b570a@45.130.125.194:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vi.new-persian-song.ir#@meliproxyy
+vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.192:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vh.mojaz-persian-music.ir#@meliproxyy
+vless://d3d046fa-d372-430a-8ed9-083d62c44efb@45.130.125.194:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vip.mojaz-persian-music.ir#@meliproxyy
+vless://d3d046fa-d372-430a-8ed9-083d62c44efb@45.130.125.194:8443?mode=auto&path=%2F%3Fed&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vip.mojaz-persian-music.ir#@meliproxyy
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@meliproxyy
+vless://b2bfb4f3-f4c3-4323-9810-a086fef2f25d@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#@meliproxyy
+vless://40e32120-08c8-4a48-aa0b-156b653f364f@217.179.221.234:24986?path=%2F&security=&encryption=none&host=mci.ir&type=httpupgrade#@meliproxyy
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@www.speedtest.org:8080?path=%2F&security=&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#@meliproxyy
