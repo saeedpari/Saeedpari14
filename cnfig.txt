@@ -1,7 +1,6 @@
 vless://14e35c8c-33cd-4e1a-ba73-3ddf993fa95f@81.30.108.121:443?security=tls&type=xhttp&headerType=&path=&host=cdn.gapfilm.org&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=cdn.gapfilm.org&fp=chrome&pcs=610792abc1380f3fe53381ed3ba0c1a6a71a893755106d729b9d80e5930ae8be&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20%D9%87%D9%84%D9%86%D8%AF%C2%B9
 vless://14e35c8c-33cd-4e1a-ba73-3ddf993fa95f@81.30.108.121:443?security=tls&type=xhttp&headerType=&path=&host=cdn.gapfilm.org&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2…
 vless://08217744-d316-49a7-7a08-fc05262df0e1@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.daraflo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daraflo.ir#v2reya88-5.00GB%F0%9F%93%8A-23H%E2%8F%B3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%40IranUnlocked%20%E2%99%8B
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%40IranUnlocked%20%E2%99%8C
 vless://e833874b-b2e8-4efc-bf39-0b061890e30f@104.16.75.127:2095?encryption=none&type=ws&path=%2Fed%3D2560&host=iran-fast.azazilvpn.sbs#%F0%9F%91%B8%40Cooonfig%F0%9F%87%A9%F0%9F%87%AA%F0%9F%A4%8D
 vless://e833874b-b2e8-4efc-bf39-0b061890e30f@188.114.97.6:2095?encryption=none&type=ws&path=%2Fed%3D2560&host=iran-fast.azazilvpn.sbs#%F0%9F%91%B8%40Cooonfig%F0%9F%87%A9%F0%9F%87%AA%E2%9D%A4%EF%B8%8F
@@ -11,6 +10,7 @@ vless://0528bf18-d236-4337-8074-026004cad231@hcaptcha.com:8443?path=%2F&security
 vless://1d4165bd-e5c8-4eeb-9594-da5c28e92d41@162.245.81.42:45121?path=%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN&security=none&encryption=none&host=nodejs.org&type=ws#%40Begoo_VPN%20%C2%B9%E2%81%B7%E2%81%B0
 vless://97aa1728-2bd9-4368-b83a-5881639821bb@194.127.178.136:443?security=&encryption=none&headerType=http&type=tcp#موشک
 vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&headerType=none&type=tcp#%40IranUnlocked+%F0%9F%87%A9%F0%9F%87%AA%C2%B2
+vless://c6e7823a-a3b3-42af-ae75-7882c2d6c5b3@5.45.184.133:13379?type=tcp&encryption=none&security=none#
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@208.103.161.170:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#United%2BStates
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#The%2BNetherlands
 trojan://humanity@104.18.152.225:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#none
