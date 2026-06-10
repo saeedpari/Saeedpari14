@@ -19,8 +19,6 @@ vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality
 vless://7d2c6756-8397-426e-bed2-100d9f5da95d@174.138.75.30:24211?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#United%2BStates
 trojan://humanity@104.16.174.36:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#none
 vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?security=reality&encryption=none&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=1aab45#Australia
-vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@23.235.42.205:80?mode=auto&path=%2Flogin&security=&encryption=none&host=shangulin.global.ssl.fastly.net&type=xhttp#@meliproxyy
-vless://d657a6f2-fe22-42f3-bfdd-19ef429ce537@140.248.160.218:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=1&host=fi-hel-2.global.ssl.fastly.net&type=xhttp&allowInsecure=1&sni=speedtest.net#@meliproxyy
 vless://da48859d-edf9-4a8c-a026-80910591f284@nytimes.com:80?mode=auto&path=%2FTignal&security=&encryption=none&host=tignaltofansv8.global.ssl.fastly.net&type=xhttp#@meliproxyy
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.136:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-25.vk-cdnvideo.com#@meliproxyy
 vless://452da0f8-3034-4e5d-9e7f-9c3f58abb8ff@122.248.202.201:45075?security=reality&encryption=none&pbk=l6Z-68Q2EJ8nZ5mzWSAB53lp1-_nOHwV2Z18y3DT7xQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=7185b14179922a5c#@meliproxyy
@@ -29,3 +27,5 @@ vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://0ff7989d-59b3-4cbd-a2e4-960ac02fb2f1@46.137.225.209:32946?security=reality&encryption=none&pbk=zdEghV1Mt50wCSUBZSd601DSMoX4KBTfcKWZ2_mYTBk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=984d9ea72b9e81#@meliproxyy
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.26.15.16:8080?security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#@meliproxyy
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@meliproxyy
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.133:8443?security=tls&encryption=none&headerType=none&allowinsecure=0&type=tcp&sni=cdn3-87.vk-cdnvideo.com#@meliproxyy
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@newyorkcity.instasup.ir:1005?security=reality&encryption=none&pbk=aEyXUqZ4doy7Qse745h5IKGo31Jc2YEK3QOVaOuPPns&headerType=none&fp=firefox&allowinsecure=1&type=tcp&sni=yahoo.com&sid=4f2087146c1f587a#@meliproxyy
