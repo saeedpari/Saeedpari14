@@ -14,6 +14,7 @@ vless://daf65e17-1ed5-42be-a34d-20a156ddedbc@77.110.101.97:56834?security=none&e
 vless://931220c8-15ac-41f4-ba7b-8736a82a3ba2@45.64.74.100:15570?security=reality&encryption=none&pbk=59-0Y1oblZGcZajVn0IAMba0RNh8yNv-jhvKni1eZDY&headerType=none&fp=chrome&spx=%2Fcc4d4c6e202846c&type=tcp&sni=www.cloudflare.com&sid=945974883e#%40Begoo_VPN%20%C2%B2%E2%81%B9%E2%81%B6
 vless://9aab8f39-ccb3-44ea-acdc-a8aefe211287@45.164.20.114:10226?security=none&encryption=none&headerType=none&type=tcp#%40Begoo_VPN%20%C2%B2%E2%81%B9%E2%81%B7
 vless://2b043155-1d88-44fc-b612-abb7d9fa675e@192.3.153.192:8855?security=none&encryption=none&headerType=none&type=tcp#%40Begoo_VPN%20%C2%B2%E2%81%B9%E2%81%B8
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NzVoaW9wcTJoMjh5YW82@15.235.121.109:8080#@meliproxyy
 vless://a524f83d-803d-410d-adbe-298c01b13675@perplexity.ai:443?path=%2Ft.me-SubGift&security=tls&alpn=http%2F1.1&encryption=mlkem768x25519plus.native.0rtt.DnzFjeBiVd9hsdJLa3doeSXL6TXTWhAs02TzQZdLDXw&insecure=0&host=moon.subgift24.bond&fp=unsafe&type=ws&allowInsecure=0&sni=moon.subgift24.bond#@meliproxyy
 vless://685b5831-59a3-4d14-9afe-199880ae43a0@render.com:2095?path=%2F&security=none&encryption=none&host=Wr-mTrZb6.mAnIyAdG7sHaRd.iR&type=httpupgrade#@meliproxyy
