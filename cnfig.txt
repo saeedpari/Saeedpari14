@@ -14,7 +14,6 @@ vless://931220c8-15ac-41f4-ba7b-8736a82a3ba2@45.64.74.100:15570?security=reality
 vless://9aab8f39-ccb3-44ea-acdc-a8aefe211287@45.164.20.114:10226?security=none&encryption=none&headerType=none&type=tcp#%40Begoo_VPN%20%C2%B2%E2%81%B9%E2%81%B7
 vless://2b043155-1d88-44fc-b612-abb7d9fa675e@192.3.153.192:8855?security=none&encryption=none&headerType=none&type=tcp#%40Begoo_VPN%20%C2%B2%E2%81%B9%E2%81%B8
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#@meliproxyy
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.73:19999#@meliproxyy
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZGZJTktXTFhvT2dIM094NzJDQW1rQ3ZXbURsUCtpZGFUdXUvRGRERzRGVT06Vjl2OEZkNUF2RGszK255YWgwV3hDZXF6djhRNStjTVhVajdXalZDZ1F6MD0=@leviko-de4943.shopingggg.ir:1883?type=tcp#@meliproxyy
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@leviko-nl8242.shopingggg.ir:443?type=tcp#@meliproxyy
@@ -24,6 +23,7 @@ vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@leviko-se9938.shopingggg.ir:443?enc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY3ZocHZkZzR4N212YnBz@leviko-ca8643.shopingggg.ir:8080?type=tcp#@meliproxyy
 vless://01e61db7-9e0b-4431-a995-a5288a01b951@leviko-tr3098.shopingggg.ir:43000?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=147.45.66.208&pbk=DbL9RJFvJrnxBu6fFhWkHF8nsD6cK_DKMuMV00RmlWg&sid=4d3d8e15#@meliproxyy
 vless://71b566cb-78c4-48e4-af5b-720e4f7884f2@leviko-de6003.shopingggg.ir:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=p1.xvanta.online&pbk=O35Np_ugrc3mUDIEO4UnViEwRobM2r9kqQCdcdCHjEI&sid=cb33163cf9c03ab1#@meliproxyy
+vless://c4bc7991-1d11-4fbe-ad9c-4de525060249@de.nyanners.ir:666?alpn=http%2F1.1&encryption=none&fp=edge&host=de.nyanners.ir&path=%2F&security=tls&sni=de.nyanners.ir&type=ws#meliproxyy
 vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?security=reality&encryption=none&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru&sid=e6#%40IranUnlocked%F0%9F%87%AB%F0%9F%87%B7%C2%B9
 vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?security=reality&encryption=none&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=fd8cf7e1173f0edb#%40IranUnlocked%F0%9F%87%AC%F0%9F%87%A7%C2%B2
 vless://75113671-63e3-452d-87d3-261a37e8b472@107.181.151.128:443?security=reality&encryption=none&pbk=zfsjt2A8ur0qHWIuCG7F9W4wZN3VTuL6fkTljC-9R0s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.mozilla.org&sid=baf023e1026a#%40IranUnlocked%F0%9F%87%AB%F0%9F%87%AE%C2%B3
